@@ -1,6 +1,6 @@
 ## **List of functionalities:**
 
-Each folder contains screenshot examples for fianl results.
+Each folder contains screenshot examples for final result.
 
 
 ### **-Scrollable popup AI:**
