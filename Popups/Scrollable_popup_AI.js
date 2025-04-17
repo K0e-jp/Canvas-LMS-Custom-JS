@@ -41,6 +41,11 @@ function showPopup() {
                     point 6
                     point 6</p>
                     <p>• point 7</p>
+                    <p>• point 7</p>
+                    <p>• point 7</p>
+                    <p>• point 7</p>
+                    <p>• point 7</p>
+                    <p>• point 7</p>
                 </div>
             </div>
             <button id="close-popup" disabled>I Accept</button>
