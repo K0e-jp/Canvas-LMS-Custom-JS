@@ -21,25 +21,12 @@ function showPopup() {
                 <h2>TITLE</h2>
                 <div class="popup-scrollable" id="popup-scrollable">
                     <p>Main text:</p>
-                    <p>• point 1
-                    point 1
-                    point 1</p>
-                    <p>• point 2
-                    point 2
-                    point 2
-                    point 2</p>
-                    <p>• point 3
-                    point 3
-                    point 3
-                    point 3</p>
-                    <p>• point 4
-                    point 4
-                    point 4
-                    point 4</p>
+                    <p>• point 1 point 1 point 1</p>
+                    <p>• point 2 point 2 point 2 point 2</p>
+                    <p>• point 3 point 3 point 3  point 3</p>
+                    <p>• point 4 point 4 point 4 point 4</p>
                     <p>• point 5</p>
-                    <p>• point 6
-                    point 6
-                    point 6</p>
+                    <p>• point 6 point 6 point 6</p>
                     <p>• point 7</p>
                     <p>• point 7</p>
                     <p>• point 7</p>
